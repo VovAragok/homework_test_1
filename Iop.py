@@ -1,5 +1,5 @@
 import random
-#123
+#12345
 class Warrior:
     object = None
     _health1 = 100
